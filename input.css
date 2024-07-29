@@ -1,0 +1,72 @@
+.one{
+    display: flex;
+    margin: 50px;
+    border: 20px;
+}
+.two{
+    margin-right: 40px;
+    background-color: blanchedalmond;
+}
+.three{
+    margin-right: 40px;
+    background-color: aliceblue;
+
+
+}
+.four{
+    display: flex;
+    margin: 40px;
+    border: 20px;
+
+}
+.in{
+    margin-right: 40px;
+    background-color: azure;
+
+}
+.the{
+    margin-right: 40px;
+    background-color: antiquewhite;
+
+}
+.sun{
+    background-color: lightgray;
+    color: black;
+    padding: 40px;
+    text-align: center;
+
+}
+.of{
+    color: blueviolet;
+    padding: 5px;
+    text-align: center;
+
+}
+.ok{
+    color: blueviolet;
+    padding: 1px;
+    text-align: center;
+
+
+}
+.if{
+    color: black;
+    padding: 1px;
+    text-align: center;
+ 
+}
+.tax{
+    display: flex;
+    margin: 50px;
+    border: 30px;
+
+
+}
+.next{
+    margin: 40px;
+
+
+}
+.ami{
+    
+}

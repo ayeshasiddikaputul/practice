@@ -1,0 +1,54 @@
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    order: 4;
+    gap: 5px;
+    transform: translate(100px);
+    
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    order: 1;
+    gap: 5px;
+    transform: scale(0.60)
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    order: 2;
+    transition: ease-in-out height 5s;
+    
+
+}
+.box4{
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    order: 3;
+    
+}
+.one{
+    display: flex;
+    height: 600px;
+    width: 600px;
+    padding: 20px;
+    background-color: aqua;
+    gap: 5px;
+    flex-wrap: nowrap;
+}
+.box1:hover{
+    transform: scale(0.75);
+}
+.box2:hover{
+    transform: rotate(90deg);
+    transition-duration: 3s;
+}
+.box3:hover{
+    height: 300px;
+    width: 300px;
+    
+}

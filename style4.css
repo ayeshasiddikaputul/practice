@@ -1,0 +1,181 @@
+.on{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    background-color: aqua;
+     color: rgb(10, 11, 11);
+     justify-content: space-evenly;
+     padding: 20px;
+}
+
+.box{
+    margin: 20px;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 20px;
+}
+.main{
+    margin: 20px;
+    box-shadow: 20px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.one{
+    display: flex;
+    max-width: 70%;
+}
+.two{
+    margin: 20px;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.three{
+    margin: 20px;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.four{
+    margin: 20px;
+    margin-bottom: 10px;
+
+
+
+}
+.btn-contact{
+    background-color: blanchedalmond;
+    margin-right: 15px;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+
+
+
+}
+.five{
+    display: flex;
+}
+
+
+.six{
+    margin: 20px;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+.about{
+    margin: 20px;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.eight{
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.btn-Html5{
+    background-color: antiquewhite;
+    color: rgb(185, 113, 6);
+    margin-right: 15px;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+    width: 150px;
+}
+
+.btn-Css3{
+    background-color: blanchedalmond;
+    color: antiquewhite;
+    margin-right: 15px;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+    width: 150px;
+
+
+}
+.btn-javasript{
+    background-color: antiquewhite;
+    color: blanchedalmond;
+    margin-right: 15px;
+    border-radius: 10px;
+    font-style: 15px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+    width: 150px;
+
+}
+.btn-Sass{
+    background-color: antiquewhite;
+    color: blanchedalmond;
+    margin-right: 16px;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+    width: 150px;
+
+}
+.btn-Next{
+    background-color: antiquewhite;
+    color: blanchedalmond;
+    margin-right: 15px;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+    width: 150px;
+
+
+}
+.nine{
+    margin: 20px;
+    margin-bottom: 20px;
+
+}
+.btn-submit{
+    background-color: antiquewhite;
+    color: blanchedalmond;
+
+
+    margin-right: 15px;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+
+
+
+
+
+
+
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

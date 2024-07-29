@@ -1,0 +1,23 @@
+.four{
+    display: flex;
+    margin: 30px;
+
+}
+.sun{
+    display: flex;
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 40px;
+    gap: 40px;
+    margin-top: 10px;
+
+
+}
+.ayesha{
+    display: flex;
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 40px;
+    gap: 40px;
+    margin-top: 40px;
+}
